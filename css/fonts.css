@@ -1,0 +1,91 @@
+@font-face {
+    font-family: "Poppins";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Poppins-Regular"),
+    url(/fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Poppins";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Poppins-Medium"),
+    url(/fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Poppins";
+    font-weight: 600;
+    font-style: normal;
+    src: local("Poppins-SemiBold"),
+    url(/fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "Poppins";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Poppins-Bold"),
+    url(/fonts/Poppins-Bold.ttf);
+}
+
+
+@font-face {
+    font-family: "Rubik";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Rubik-Relugar"),
+    url(/fonts/Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Rubik";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Rubik-Medium"),
+    url(/fonts/Rubik-Medium.ttf);
+}
+
+
+@font-face {
+    font-family: "Rubik";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Rubik-Bold"),
+    url(/fonts/Rubik-Bold.ttf);
+}
+
+
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Lato-Regular"),
+    url(/fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Lato";
+    font-weight: 800;
+    font-style: normal;
+    src: local("Lato-ExtraBold"),
+    url(/fonts/Lato-ExtraBold.ttf);
+}
+
+
+@font-face {
+    font-family: "Mulish";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Mulish-Light"),
+    url(/fonts/Mulish-Light.ttf);
+}
+
+@font-face {
+    font-family: "Mulish";
+    font-weight: 300;
+    font-style: italic;
+    src: local("Mulish-LightItalic"),
+    url(/fonts/Mulish-LightItalic.ttf);
+}
